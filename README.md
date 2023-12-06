@@ -1,2 +1,4 @@
 # TESTPwi
 optional
+ZMIANA
+ZMIENIAM!!!
